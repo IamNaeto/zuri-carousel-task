@@ -10,7 +10,9 @@
 - when the next icon on the last image is clicked, it should show the first image.
 - when the previous icon on the first image is clicked, it should show the last image.
 
-- Live Link :: [Go Live](https://iamnaeto.github.io/zuri-carousel-task/)
+
+   - Live Link :: [Go Live](https://iamnaeto.github.io/zuri-carousel-task/)
+
 
 ## Author: Charles Obimnaeto Egesionu ##
 
