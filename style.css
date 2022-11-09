@@ -104,11 +104,20 @@ body {
         height: 400px;
         position: absolute;
         transition: all 0.3s;
+        margin-top: 35px;
     }
 }
 
 @media (max-width: 375px) {
     .carousel {
         width: 90%;
+    }
+    .slide {
+        width: 100%;
+        max-width: 400px;
+        height: 400px;
+        position: absolute;
+        transition: all 0.3s;
+        margin-top: 35px;
     }
 }
